@@ -1,0 +1,14 @@
+# Java build output
+build/
+out/
+bin/
+*.class
+*.jar
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/

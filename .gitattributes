@@ -1,0 +1,4 @@
+# Keep the Solomon instance files byte-for-byte as distributed (CRLF line endings).
+instances/*.txt -text
+*.sh text eol=lf
+*.bat text eol=crlf
